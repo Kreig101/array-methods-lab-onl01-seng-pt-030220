@@ -15,7 +15,7 @@ In this lab, you will call methods on arrays, like `#sort` and `#include?`.
 ## Instructions
 
 In this lab, we will be coding the solutions for each of the above tasks in the body of a method. In `lib/array_methods.rb` we've defined a series of methods for you, each of which is responsible for one of the tasks above. Your job is to write the code in the body of each method to get the tests passing.
-
+l
 Each method takes in an argument of an array. You will call the appropriate method, such as `#include?` or `#first`, on that array to get the test passing.
 
 This lab is test-driven so run `learn` to get started and use the test output to guide you.
